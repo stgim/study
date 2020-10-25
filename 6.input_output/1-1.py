@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 in_str = input("아이디를 입력해주세요.\n")
 # print(type(in_str))
 real_kst = "11"

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #Boolean은 True와 False로 되어 있다.
 #python은 True와 False의 T와 F는 대문자로 되어 있다.
 a=1 #=은 대입 연산자

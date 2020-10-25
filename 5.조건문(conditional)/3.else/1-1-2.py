@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 input=11
 real=11
 if real == input:
